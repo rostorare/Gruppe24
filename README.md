@@ -15,3 +15,4 @@ Relevanter code in https://github.com/rostorare/Gruppe24/tree/master/Programmier
 
 Gui enthält gui
 Java enthält die funktionalität des XML Parsers
+
